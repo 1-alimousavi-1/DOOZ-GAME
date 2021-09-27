@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOOZ", "DOOZ.csproj", "{D68A6F77-7987-45E5-9546-A5FA6944475B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DOOZ-game", "DOOZ-game\DOOZ-game.vdproj", "{CC92168C-1158-4087-B32D-21ECD8F37190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68A6F77-7987-45E5-9546-A5FA6944475B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68A6F77-7987-45E5-9546-A5FA6944475B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68A6F77-7987-45E5-9546-A5FA6944475B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68A6F77-7987-45E5-9546-A5FA6944475B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC92168C-1158-4087-B32D-21ECD8F37190}.Debug|Any CPU.ActiveCfg = Debug
+		{CC92168C-1158-4087-B32D-21ECD8F37190}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924DD6CE-F9F4-40B0-A2BA-4DE29330C27E}
+	EndGlobalSection
+EndGlobal
